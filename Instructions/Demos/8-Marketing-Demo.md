@@ -9,7 +9,7 @@ demo:
 
 **应用场景**：  
 
-你是 Contoso 的运营经理，负责管理供应商采购和项目执行。 目标是分析过去的“征求建议书”(RFP)，提取关键选择条件，并为即将推出的计划指定新的 RFP。
+你在一家饮料公司从事营销工作，你的目标是分析市场趋势，创建营销分析，并开发新的社交媒体市场活动。
 
 ## 演示设置
 
@@ -29,7 +29,7 @@ demo:
 
 ## 演示
 
-### Copilot in Word
+### Word 中的 Copilot
 
 使用 Word 中的 Copilot 起草详细的市场分析报告，并集思广益，针对拉丁美洲市场量身定制有创意的市场营销活动方案。
 
@@ -55,13 +55,13 @@ demo:
 
 1. 将此新文档另存为 **LATAM_Market_Analysis.docx**。
 
-### Copilot Chat
+### Copilot 对话助手
 
 使用 Copilot Chat 评估拟议社交媒体市场活动的有效性，并优化拉丁美洲市场中文化相关性策略。
 
 1. 打开浏览器并导航到 [M365copilot.com](https://m365copilot.com/)。
 
-1. 确保已选择 Web 模式。
+1. 确保已选择“Web 模式”。
 
     ![显示 Web 模式选项卡的屏幕截图。](../Prompts/Media/web-mode.png)
 
