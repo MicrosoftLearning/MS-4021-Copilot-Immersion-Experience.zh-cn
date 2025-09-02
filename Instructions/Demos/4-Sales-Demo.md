@@ -23,11 +23,11 @@ demo:
 
 ## 演示
 
-### Copilot Chat
+### Copilot 对话助手
 
 1. 打开浏览器并导航到 [M365copilot.com](https://m365copilot.com/)。
 
-1. 确保已选择 Web 模式。
+1. 确保已选择“Web 模式”。
 
     ![显示 Web 模式选项卡的屏幕截图。](../Prompts/Media/web-mode.png)
 
@@ -65,8 +65,7 @@ demo:
 
 1. 打开后，选择“**启用编辑**”，然后打开“自动保存”。 出现提示时选择 OneDrive 帐户。
 
-
-### Copilot in Word
+### Word 中的 Copilot
 
 我们现在将要求 Copilot 阐述这些策略，并起草有关如何实现这些策略的建议。
 
