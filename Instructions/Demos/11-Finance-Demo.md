@@ -111,7 +111,7 @@ demo:
 
     ![共享链接。](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
-### Copilot Chat
+### Copilot 对话助手
 
 使用 Copilot Chat 将财务业绩与行业基准和竞争对手进行比较。
 
@@ -147,7 +147,7 @@ demo:
 
     ![共享链接。](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
-### Copilot in Word
+### Word 中的 Copilot
 
 使用 Word 中的 Copilot 将财务见解汇总成电子邮件发送给团队。
 
@@ -174,3 +174,5 @@ demo:
     - 使其不那么正式
 
 1. 完成后，可以选择“**保留**”
+
+[返回到索引](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

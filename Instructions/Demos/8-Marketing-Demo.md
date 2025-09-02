@@ -118,3 +118,5 @@ demo:
     ```text
     How many social media campaign views did we have from September to December?
     ```
+
+[返回到索引](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
