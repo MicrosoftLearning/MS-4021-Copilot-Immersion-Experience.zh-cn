@@ -57,13 +57,11 @@ task:
 - 尝试如下所示的示例提示：  
 
    ```text
-   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
+   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
    ```  
 
-    > 提示****：请将重点放在实用的日常用例上 - 例如快速调取文档，或是从多个来源汇总最新信息。
-  
-    > **注意：** 研究助手可能需要 5-10 分钟才能完成，具体取决于你的请求。 它的响应内容非常详细，因此，在它工作时，请尝试在 Copilot 对话助手中运行相同的提示。 对比两个输出，可以很好地了解每个工具对任务的处理。
-    
+    > 提示****：请将重点放在实用的日常用例上 - 例如快速调取文档，或是从多个来源汇总最新信息。  
+
 ### 任务 3：生成并测试你的智能体  
 
 现在，在 Copilot Studio 中创建一个简单的检索型智能体，以解决你所面临的挑战****。  
