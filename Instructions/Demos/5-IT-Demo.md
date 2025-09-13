@@ -23,13 +23,13 @@ demo:
 
 ## 演示
 
-### Copilot Chat
+### Copilot 对话助手
 
 首先，要求 Copilot 创建项目实现计划。
 
 1. 打开浏览器并导航到 [M365copilot.com](https://m365copilot.com/)。
 
-1. 确保已选择 Web 模式。
+1. 确保已选择“Web 模式”。
 
     ![显示 Web 模式选项卡的屏幕截图。](../Prompts/Media/web-mode.png)
 
@@ -57,17 +57,17 @@ demo:
     Please export the project plan to a Word document.
     ```
 
-1. 将生成的 Word 文档另存为 **Project_Implementation_Plan.docx**。 从文档复制共享 URL（如果出现提示，请启用“自动保存”并选择 OneDrive 帐户）。
+1. 选择 Copilot 提供给新创建文件的链接，将其下载到“下载”文件夹。 将文件移动到 OneDrive 文件夹并打开它。 从文档复制共享 URL（如果出现提示，请启用“自动保存”并选择 OneDrive 帐户）。
 
     ![共享链接。](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
-### Copilot in Word
+### Word 中的 Copilot
 
 我们现在将要求 Copilot 阐述这些策略，并起草有关如何实现这些策略的建议。
 
 1. 打开 Word（在浏览器或桌面应用程序中）。
 
-1. 在“**描述要写入的内容**”提示框中，键入以下内容：
+1. 在“你希望 Copilot 起草什么？”提示框中，键入以下内容：****
 
     ```text
     Using the Contoso [/CipherGuard Product Specification.docx] and the 'Project Implementation Plan' template provided in [paste in link to Project_Implementation_Plan.docx], draft a comprehensive project implementation plan for deploying Contoso CipherGuard. Ensure the plan aligns with the product specifications and follows the structure outlined in the template.
