@@ -1,15 +1,15 @@
 ---
 demo:
-  title: 使用 Copilot Studio 构建智能体
+  title: 使用 Copilot Studio 精简版生成智能体
 ---
 
 [返回到索引](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
-# 使用 Copilot 对话助手构建和发布智能体
+# 使用 Copilot studio 精简版生成和发布智能体
 
-本演示将逐步展示如何通过 Copilot 对话助手在 Copilot Studio 中构建虚拟助手，并将其发布到 Microsoft 365 Copilot。
+此演示介绍如何通过 Copilot 对话助手使用 Copilot Studio 精简版生成虚拟助手，并将其发布到 Microsoft 365 Copilot。
 
 ## 演示设置
 
@@ -25,17 +25,17 @@ demo:
 
 ## 讲座要点
 
-通过 Copilot Studio，我们可以构建自定义助手，这些工具可根据特定项目、部门或知识库的需求进行定制。 我们可以为这些自定义助手赋予专属特性，设定其边界，并向它们导入特定文档，以此确保其响应既高质量，又有事实依据。
+通过使用 Copilot Studio 精简版，我们能够生成符合特定项目、部门或知识库特定需求的自定义助手。 我们可以为这些自定义助手赋予专属特性，设定其边界，并向它们导入特定文档，以此确保其响应既高质量，又有事实依据。
 
 在此演示中，我们将为“ReleCloud 无人机配送项目”创建一个虚拟助手。 该助手将掌握我们已上传的所有信息，并协助解答团队成员的疑问，从而节省时间、提升工作效率。
 
 ## 演示步骤
 
-### 步骤 1 - 导航到 Copilot Studio
+### 步骤 1 - 导航到 Copilot Studio 精简版
 
-1. 转到“[https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat)”，在右侧滑轨中选择“创建智能体”****。
+1. [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat)**** 转到并选择导航窗格中的“创建智能体”。
 
-    ![显示创建智能体链接的屏幕截图。](../Prompts/media/create-agent.png)
+    ![显示创建智能体链接的屏幕截图。](../Prompts/Media/create-agent.png)
 
 1. 使用你的凭据登录。
 
@@ -73,18 +73,18 @@ demo:
     Friendly and professional
     ```
 
-> **重要提示：** 根据你的环境不同，系统可能不会提示你选择所有这些选项。 如果未收到相关提示，你可在 Copilot Studio 内，通过“配置”选项卡添加这些信息****。
+> **重要提示：** 根据你的环境不同，系统可能不会提示你选择所有这些选项。 **** 如果未收到提示，可以使用 Copilot Studio 精简版中的“配置”选项卡添加此信息。
 
 ### 步骤 3：配置智能体
 
-1. 单击“配置”以打开智能体编辑器****。
+1. **** 选择“配置”以打开智能体编辑器。
 1. 查看并根据需要更新“说明”部分****：
 
     ```text
     Your name is Drone Delivery Project Manager Assistant. You serve as a virtual project manager for the ReleCloud drone delivery project, with comprehensive knowledge from shared documents. Be clear and concise, avoiding long answers. If the answer is unknown, refer to the drone delivery project manager.
     ```
 
-1. 向下滚动到“知识”部分，单击“按名称搜索或输入 URL”文本按钮********。 选择“文件”，并将以下文档添加到智能体的知识库****：
+1. ******** 向下滚动到“知识”部分，选择进入“按名称搜索或输入 URL”文本气泡。 选择“文件”，并将以下文档添加到智能体的知识库****：
 
     - **Delivery Drone Press Release.docx**
     - **Delivery Drone Troubleshooting.docx**
@@ -109,7 +109,7 @@ demo:
 
 ### 步骤 5 - 发布和共享
 
-1. 单击“创建”以发布智能体****。
+1. **** 选择“创建”以发布智能体。
 1. 选择“更改共享设置”，然后选择“组织中的任何人”********。
 1. 复制共享链接并将其粘贴到 Teams 聊天中，以便轻松访问。
 

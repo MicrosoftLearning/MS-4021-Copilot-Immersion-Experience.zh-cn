@@ -50,21 +50,23 @@ task:
 
 **步骤：**  
 
-- 在“Copilot 对话助手”菜单中，展开“智能体”并选择“研究助手”********。  
+- ******** 在“Copilot 对话助手”菜单中，展开“智能体”（如有必要），然后选择“研究助手”。  
 
    ![显示在 M365 Copilot 菜单中选中“研究助手”的屏幕截图。](../Prompts/Media/researcher.png)  
 
 - 尝试如下所示的示例提示：  
 
    ```text
-   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
+   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
    ```  
 
-    > 提示****：请将重点放在实用的日常用例上 - 例如快速调取文档，或是从多个来源汇总最新信息。  
+    > 提示****：请将重点放在实用的日常用例上 - 例如快速调取文档，或是从多个来源汇总最新信息。
+  
+    > **注意：** 研究助手可能需要 5-10 分钟（或更长时间）完成，具体取决于你的请求。 它的响应内容非常详细，因此，在它工作时，请尝试在 Copilot 对话助手中运行相同的提示。 对比两个输出，可以很好地了解每个工具对任务的处理。
 
 ### 任务 3：生成并测试你的智能体  
 
-现在，在 Copilot Studio 中创建一个简单的检索型智能体，以解决你所面临的挑战****。  
+**** 现在，在 Copilot Studio 精简版中创建一个简易检索智能体来解决你的挑战。  
 
 **步骤：**  
 
