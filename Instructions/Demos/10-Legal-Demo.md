@@ -17,11 +17,11 @@ demo:
 
 ## 演示
 
-### Copilot Chat
+### Copilot 对话助手
 
-首先研究 AI 法案及其对 Contoso AI 招聘工具的潜在影响。
+让我们首先研究《欧盟人工智能法案》及其对 Contoso 人工智能招聘工具的潜在影响。
 
-1. 打开浏览器并导航到 [M365copilot.com](https://m365copilot.com/)。
+1. 打开浏览器并导航到 [M365Copilot.com](https://m365Copilot.com/)。
 
 1. 确保已选择“**Web 模式**”。
 
@@ -63,7 +63,7 @@ demo:
 
     ![共享链接。](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
-### Copilot in Word
+### Word 中的 Copilot
 
 现在，我们将起草执行摘要，概述法律风险和给 Contoso 领导层的建议。
 

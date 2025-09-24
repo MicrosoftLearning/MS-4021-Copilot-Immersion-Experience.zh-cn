@@ -23,7 +23,7 @@ demo:
 
 ## 演示步骤
 
-### Copilot in Word
+### Word 中的 Copilot
 
 我们首先查看最新财报电话会议的记录，并为高管汇总关键点。
 
@@ -35,7 +35,7 @@ demo:
 
     ![Word 中的 Copilot 图标。](../Demos/Media/Copilot-in-word-ribbon.png)
 
-1. Copilot 窗格应打开。 输入以下提示，其中显示“**有关此文档，有问题尽管问我**”：
+1. Copilot 窗格应打开。 在显示“+ 你希望 Copilot 起草什么？”的位置输入以下提示：****
 
     ```text
     Summarize the key points from the Microsoft FY24 Second Quarter Earnings Conference Call.
@@ -68,8 +68,7 @@ demo:
 
     ![复制结果。](../Demos/Media/Copilot-in-word-copy-results.png)
 
-
-### Copilot Chat
+### Copilot 对话助手
 
 Word 提供的报告是一个很好的起点，但现在我们希望使用 Copilot Chat 帮助我们创建执行摘要。
 

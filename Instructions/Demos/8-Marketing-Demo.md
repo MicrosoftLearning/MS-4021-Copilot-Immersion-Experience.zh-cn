@@ -35,7 +35,7 @@ demo:
 
 1. 打开 Word（在浏览器或桌面应用程序中）。
 
-1. 在“**描述要写入的内容**”提示框中，键入以下内容：
+1. 在“你希望 Copilot 起草什么？”提示框中，键入以下内容：****
 
     ```text
     Create a Market Analysis report for Mystic Spice Premium Chai Tea using the attached files. Include the product description, market trend analysis, and a promotion plan for Latin America.
@@ -53,7 +53,7 @@ demo:
     Draft a new section for social media campaigns to promote Mystic Spice Premium Chai Tea. Include a brief description of 2-3 campaign ideas, each with a unique focus. For each campaign, provide a tagline that reflects its theme and resonates with our target audience of young professionals and tea enthusiasts.
     ```
 
-1. 将此新文档另存为 **LATAM_Market_Analysis.docx**。
+1. 在 Copilot 窗口中，选择“保留”将文档从 Copilot 草稿转换为实际的 Word 文档。 然后将此新文档另存为”LATAM_Market_Analysis.docx”。****
 
 ### Copilot 对话助手
 

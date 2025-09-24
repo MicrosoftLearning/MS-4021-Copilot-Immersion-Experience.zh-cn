@@ -31,7 +31,7 @@ demo:
 
 ## 演示
 
-### Copilot in Word
+### Word 中的 Copilot
 
 首先，要求 Word 中的 Copilot 生成职位描述。
 
@@ -51,7 +51,7 @@ demo:
 
     ![共享链接。](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
-### Copilot Chat
+### Copilot 对话助手
 
 接下来，我们将使用 Copilot Chat 将收到的简历与职位描述进行对比，并确定最佳候选人。
 
@@ -89,7 +89,7 @@ demo:
 1. 在 **“您希望此电子邮件包含哪些内容？”** 提示窗口，键入以下内容：
 
     ```text
-    Please draft an email to the hiring team to share that Nester Wilke and Patti Fernandez align best with the Senior Animation Designer role based on their qualifications. Include a recommendation to schedule interviews for these candidates and request feedback on next steps.
+    Please draft an email to the hiring team to share that Nestor Wilke and Patti Fernandez align best with the Senior Animation Designer role based on their qualifications. Include a recommendation to schedule interviews for these candidates and request feedback on next steps.
     ```
 
 [返回到索引](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
