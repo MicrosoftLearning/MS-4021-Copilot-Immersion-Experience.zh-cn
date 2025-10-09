@@ -25,9 +25,11 @@ demo:
 
 1. 启动 Excel 并打开文件  
 
-1. 在 Excel 中打开 **Finance_Sales_Analysis.xlsx**（在浏览器或桌面应用程序中）。  
+1. 在 Excel 中打开 EV_Charger_Sales_Analysis_v1.xlsx****（在浏览器或桌面应用程序中）。  
 
 1. 导航到 **“按产品划分的销售额”** 选项卡。  
+
+1. 从 Excel 功能区中选择“Copilot”，然后选择“应用技能”以打开 Copilot 窗格。********
 
 1. 输入以下提示，使用 Copilot 对表进行排序：  
 

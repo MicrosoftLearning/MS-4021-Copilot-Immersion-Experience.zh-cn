@@ -99,7 +99,7 @@ demo:
 
 1. 确保已下载 [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) 并在 Excel 中打开文档（Web 或桌面应用程序）。
 
-1. 从功能区选择“**Copilot**”以打开 Copilot 窗格。
+1. 从 Excel 功能区中选择“Copilot”，然后选择“应用技能”以打开 Copilot 窗格。********
 
 1. 在 Excel 中键入以下提示：
 
