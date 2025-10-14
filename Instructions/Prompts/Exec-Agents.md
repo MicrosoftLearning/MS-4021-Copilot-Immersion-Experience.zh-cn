@@ -53,13 +53,13 @@ task:
 - 信息会在哪些环节停滞或丢失？  
 - 谁受到的影响最大？  
 
-    示例提示（Copilot 对话助手 – 工作模式）：****
+尝试如下所示的示例提示：****
 
-    ```text
-    Break down the problem of [insert challenge]. Identify root causes, pain points, and which areas of work are most affected.
-    ```
+```text
+Break down the problem of [insert challenge]. Identify root causes, pain points, and which areas of work are most affected.
+ ```
 
-    > 提示****：思考一下，在哪些场景下，知识检索能够为你节省时间，或是帮助团队更快地做出决策。
+> 提示****：思考一下，在哪些场景下，知识检索能够为你节省时间，或是帮助团队更快地做出决策。
 
 ### 任务 3：使用研究助手探索 AI 解决方案思路
 
@@ -68,7 +68,7 @@ task:
 **步骤：**
 
 - 打开新的浏览器选项卡并导航到 [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat)。
-- 在“Copilot 对话助手”菜单中，展开“智能体”并选择“研究助手”********  
+- ******** 在“Copilot 对话助手”菜单中，展开“智能体”（如有必要），然后选择“研究助手”。
 
     ![显示在 M365 Copilot 菜单中选中“研究助手”的屏幕截图。](../Prompts/Media/researcher.png)  
 
@@ -80,22 +80,24 @@ task:
 
     > 提示****：寻找智能体可以使知识更易于查找、重复使用或共享的机会。
 
-### 任务 4：构思你的智能体
+    > **注意：** 研究助手可能需要 5-10 分钟（或更长时间）完成，具体取决于你的请求。 它的响应内容非常详细，因此，在它工作时，请尝试在 Copilot 对话助手中运行相同的提示。 对比两个输出，可以很好地了解每个工具对任务的处理。
 
-现在，请根据你获得的见解，在 Copilot Studio 中创建简易模拟智能体****。 请始终聚焦于检索功能 - 你的智能体应有助于发现、整理或汇总信息。
+### 任务 4：生成智能体
+
+现在，请根据你获得的见解，在 Copilot Studio 精简版中创建简易模拟智能体****。 请始终聚焦于检索功能 - 你的智能体应有助于发现、整理或汇总信息。
 
 **步骤：**
 
-- **在 Copilot Studio 中启动**
+- **** 在 Copilot Studio 精简版中启动
 
     1. 打开浏览器，导航到 [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat)。
-    1. 在右侧侧边栏中选择“创建智能体”选项，以启动 Copilot Studio********。
+    1. ******** 在导航窗格中选择“创建智能体”以启动 Copilot Studio。
 
         ![显示创建智能体链接的屏幕截图。](../Prompts/Media/create-agent.png)
 
 - **定义你的智能体（“描述”选项卡或“配置”选项卡）**
 
-    1. 选择“描述”选项卡并使用此示例提示（或编写自己的提示）****：
+    1. **** 选择“描述”选项卡（如果可用），并使用此示例提示（或编写自己的提示）：
 
         ```text
         You’re a virtual assistant for our [project/team name]. Your role is to help with [key tasks]. Be concise, stay on-brand, and reference our shared resources when possible.
@@ -105,7 +107,7 @@ task:
 
         > **注意：** 可以从头开始或基于模板的智能体，该模板预填充了稍后可以自定义的设置和说明。
 
-    1. 如果“描述”不可用，请切换到“配置”选项卡并手动输入相同的详细信息：名称、描述和智能体说明********。
+    1. **** 如果“描述”选项卡可用，则执行了上一步。 **** 如果不可用，则切换到“配置”选项卡并手动输入相同的详细信息：名称、描述和智能体说明。
 
         ![显示配置智能体的屏幕截图。](../Prompts/Media/name-describe-agent.png)
 
@@ -125,7 +127,7 @@ task:
 
 - **测试和创建**
 
-    1. 使用“测试”功能（在整个智能体构建过程中，可在右侧面板中找到该功能）来试用你的草稿智能体，并优化存在的任何问题****。
+    1. **** 使用“测试”功能（在整个智能体生成过程中的右窗格中可用）试用草拟版智能体并针对任何问题进行优化。
     2. 感到满意后，选择“创建”以发布该智能体****。
     3. 与他人共享你的智能体或将其打开以供立即使用。  
 
