@@ -14,13 +14,13 @@ demo:
 
 ## 演示设置
 
-为完成这些演示，你需要下载[研究助手和分析助手演示 - 内容包](https://microsoft.sharepoint.com/:u:/r/teams/MTTCentral/Immersion%20Experience%20Source%20Control/MS-4021%20Copilot%20Immersion%20Experience/Demos/Agent%20Demo%20Sample%20Docs/Researcher%20and%20Analyst%20Demo%20-%20Content%20Pack.zip?csf=1&web=1&e=384sFW)，该内容包包含所有必需的文件和资源。  
+为完成这些演示，你需要下载[研究助手和分析助手演示 - 内容包](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Researcher_and_Analyst_Demo_Content_Pack.zip)，该内容包包含所有必需的文件和资源。  
 
-> 提示****：在进行演示之前，你可以在演示环境中创建一个 SharePoint 站点，用于存储所有相关文件，以便快速访问。 或者，你也可以将文件存储在本地，并在提示中通过 / 直接引用这些文件****。  
+> 提示****：在进行演示之前，你可以在演示环境中创建一个 SharePoint 站点，用于存储所有相关文件，以便快速访问。 或者，你也可以将文件存储在本地，并在提示中通过/ 直接引用这些文件****。  
 
 要访问这些智能体，请执行以下操作：  
 
-- 从 [m365.cloud.microsoft](https://m365.cloud.microsoft) 打开 Copilot 应用****。  
+- 从[m365.cloud.microsoft](https://m365.cloud.microsoft) 打开 Copilot 应用****。  
 - ******** 从导航窗格中选择“研究助手”或“分析助手”。  
 
 > **注意：** 你需要将研究助手和分析助手指向企业内部文件（存储于 SharePoint 或 OneDrive），以获取有事实依据的见解。
@@ -55,7 +55,7 @@ demo:
     Include insights from competitors and our past GTM campaigns.
     ```
 
-1. 使用 `/`（指向 SharePoint/OneDrive）附加参考文件：  
+1. 使用`/`（指向 SharePoint/OneDrive）附加参考文件：  
 
    - **/SprintCycle Charger Product Launch.docx**  
    - （可选）**/Contoso - PedalPerks GTM Plan.docx****  
@@ -85,7 +85,7 @@ demo:
     include a graph to show how this will maximize our market opportunity.
     ```
 
-1. 使用 + 附加以下文件****：  
+1. 使用+ 附加以下文件****：  
 
    - **BoulderEV ebike Internal Market Forecast.xlsx**  
 
